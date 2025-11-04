@@ -1,0 +1,11 @@
+D:\Visual Studio 2022\مشروع د _ شريف\obj\Debug\مشروع د _ شريف.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\مشروع د _ شريف\obj\Debug\مشروع_دكتور_شريف.Form1.resources
+D:\Visual Studio 2022\مشروع د _ شريف\obj\Debug\مشروع_د___شريف.Properties.Resources.resources
+D:\Visual Studio 2022\مشروع د _ شريف\obj\Debug\مشروع د _ شريف.csproj.GenerateResource.cache
+D:\Visual Studio 2022\مشروع د _ شريف\obj\Debug\مشروع د _ شريف.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\مشروع د _ شريف\bin\Debug\مشروع د _ شريف.exe.config
+D:\Visual Studio 2022\مشروع د _ شريف\bin\Debug\مشروع د _ شريف.exe
+D:\Visual Studio 2022\مشروع د _ شريف\bin\Debug\مشروع د _ شريف.pdb
+D:\Visual Studio 2022\مشروع د _ شريف\obj\Debug\مشروع د _ شريف.exe
+D:\Visual Studio 2022\مشروع د _ شريف\obj\Debug\مشروع د _ شريف.pdb
+D:\Visual Studio 2022\مشروع د _ شريف\obj\Debug\مشروع د _ شريف.exe.config
